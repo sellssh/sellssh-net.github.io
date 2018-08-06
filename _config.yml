@@ -5,8 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/sellssh
 about: Freelance developer
 
-baseurl: ""
-url: ""
+baseurl: "https://sellssh.net"
+url: "https://sellssh.net"
 
 allowsearch: true
 
